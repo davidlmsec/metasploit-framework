@@ -1,0 +1,428 @@
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 10, cb 0x106fadf0e, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 13, cb 0x106fadf91, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 22, cb 0x106fadfe5, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 11, cb 0x106fae045, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 21, cb 0x106fae086, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 16, cb 0x106fae0eb, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 12, cb 0x106fae23f, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 23, cb 0x106fae5bb, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 4, cb 0x106fad81b, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 2, cb 0x106fad913, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 6, cb 0x106fad99b, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 7, cb 0x106fada54, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 5, cb 0x106fadae3, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 8, cb 0x106fadc14, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1, cb 0x106fadd06, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 3, cb 0x106fadd69, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1001, cb 0x106fb91e7, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1004, cb 0x106fb919b, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1006, cb 0x106fb8ef8, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1007, cb 0x106fb8f47, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1005, cb 0x106fb8fa9, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1002, cb 0x106fb9110, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1008, cb 0x106fb8d0d, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1011, cb 0x106fb8d88, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1003, cb 0x106fb8e10, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1009, cb 0x106fb83e2, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1013, cb 0x106fb870f, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1014, cb 0x106fb8ed8, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1016, cb 0x106fb8c6c, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1010, cb 0x106fb922e, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1015, cb 0x106fb939b, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1026, cb 0x106fb9ba2, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.376s] [tlv.c:498] Registering command 1019, cb 0x106fb9ea9, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1022, cb 0x106fba118, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1017, cb 0x106fba34b, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1023, cb 0x106fba4f0, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1018, cb 0x106fba210, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1021, cb 0x106fba517, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1020, cb 0x106fba57c, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1024, cb 0x106fbaca1, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1025, cb 0x106fbacbf, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1052, cb 0x106fbad21, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1055, cb 0x106fbae16, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1059, cb 0x106fbae63, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1056, cb 0x106fbaf46, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1071, cb 0x106fbb09f, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1067, cb 0x106fbb31e, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1068, cb 0x106fbb41d, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1069, cb 0x106fbb640, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1077, cb 0x106fbb478, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1071, cb 0x106fbb09f, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1072, cb 0x106fbb4ff, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1070, cb 0x106fbb53d, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1095, cb 0x106fbb590, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1118, cb 0x106fc1bdc, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1112, cb 0x106fc1530, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1113, cb 0x106fc13e0, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1114, cb 0x106fc14e0, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1111, cb 0x106fc12c0, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1098, cb 0x106fc1c70, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1105, cb 0x106fc1e70, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1104, cb 0x106fc2c00, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1106, cb 0x106fc2d20, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 3002, cb 0x106fc1ae0, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 3009, cb 0x106fc19e0, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1117, cb 0x106fc4230, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1115, cb 0x106fc40f0, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [tlv.c:498] Registering command 1116, cb 0x106fc41e0, arg 0x7f81df00ba00
+[12-28-2023 18:00:21.377s] [mettle.c:75] Heartbeat
+[12-28-2023 18:00:21.377s] [network_client.c:467] resolving 'tcp://127.0.0.1:6002'
+[12-28-2023 18:00:21.377s] [network_client.c:345] connecting to tcp://127.0.0.1:6002
+[12-28-2023 18:00:21.377s] [network_client.c:278] connected to 'tcp://127.0.0.1:6002'
+[12-28-2023 18:00:21.499s] [tlv.c:525] handler for 16: 0x7f81dee04b30
+[12-28-2023 18:00:21.499s] [tlv.c:566] processing command: 16 id: '32234623960387413779154923937591'
+[12-28-2023 18:00:21.505s] [tlv.c:525] handler for 21: 0x7f81dee04ae0
+[12-28-2023 18:00:21.505s] [tlv.c:566] processing command: 21 id: '77745773557920336935984088358806'
+[12-28-2023 18:00:21.507s] [tlv.c:525] handler for 10: 0x7f81dec14e00
+[12-28-2023 18:00:21.507s] [tlv.c:566] processing command: 10 id: '30361212175112941065144826502747'
+[12-28-2023 18:00:21.513s] [tlv.c:525] handler for 10: 0x7f81dec14e00
+[12-28-2023 18:00:21.513s] [tlv.c:566] processing command: 10 id: '86824430753480073903406863985300'
+[12-28-2023 18:00:21.550s] [tlv.c:525] handler for 1008: 0x7f81dee05080
+[12-28-2023 18:00:21.550s] [tlv.c:566] processing command: 1008 id: '27103984213070458437665313800441'
+[12-28-2023 18:00:21.552s] [tlv.c:525] handler for 1055: 0x7f81dee05bf0
+[12-28-2023 18:00:21.552s] [tlv.c:566] processing command: 1055 id: '43992813777046099341132412332864'
+[12-28-2023 18:00:21.554s] [tlv.c:525] handler for 1059: 0x7f81dee05c40
+[12-28-2023 18:00:21.554s] [tlv.c:566] processing command: 1059 id: '82811946914335250932263635059533'
+[12-28-2023 18:00:21.572s] [tlv.c:525] handler for 1019: 0x7f81dee058d0
+[12-28-2023 18:00:21.572s] [tlv.c:566] processing command: 1019 id: '82713978542546423390483401249322'
+[12-28-2023 18:00:21.574s] [tlv.c:525] handler for 1022: 0x7f81dee05920
+[12-28-2023 18:00:21.574s] [tlv.c:566] processing command: 1022 id: '29908560720730459271689514489092'
+[12-28-2023 18:00:21.932s] [tlv.c:525] handler for 1008: 0x7f81dee05080
+[12-28-2023 18:00:21.932s] [tlv.c:566] processing command: 1008 id: '42868479379170749651310287862254'
+[12-28-2023 18:00:21.935s] [tlv.c:525] handler for 1052: 0x7f81dee05ba0
+[12-28-2023 18:00:21.935s] [tlv.c:566] processing command: 1052 id: '81430355732112541795656264889601'
+[12-28-2023 18:00:21.938s] [tlv.c:525] handler for 1052: 0x7f81dee05ba0
+[12-28-2023 18:00:21.938s] [tlv.c:566] processing command: 1052 id: '70019445267559336595062402005230'
+[12-28-2023 18:00:21.940s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:21.940s] [tlv.c:566] processing command: 1016 id: '91093239332173107214521064495503'
+[12-28-2023 18:00:21.943s] [tlv.c:525] handler for 1014: 0x7f81dee05210
+[12-28-2023 18:00:21.943s] [tlv.c:566] processing command: 1014 id: '50999581725173997644196486587141'
+[12-28-2023 18:00:21.945s] [tlv.c:525] handler for 1052: 0x7f81dee05ba0
+[12-28-2023 18:00:21.945s] [tlv.c:566] processing command: 1052 id: '63954555951651666277611991705338'
+[12-28-2023 18:00:21.947s] [tlv.c:525] handler for 1001: 0x7f81dee04ea0
+[12-28-2023 18:00:21.947s] [tlv.c:566] processing command: 1001 id: '50937970655721407966688949812980'
+[12-28-2023 18:00:21.949s] [tlv.c:525] handler for 1008: 0x7f81dee05080
+[12-28-2023 18:00:21.949s] [tlv.c:566] processing command: 1008 id: '84629849766905086121428235164265'
+[12-28-2023 18:00:21.952s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:21.952s] [tlv.c:566] processing command: 1016 id: '06063513627791578276562182981148'
+[12-28-2023 18:00:21.956s] [tlv.c:525] handler for 1011: 0x7f81dee050d0
+[12-28-2023 18:00:21.956s] [tlv.c:566] processing command: 1011 id: '45137597174071310831695895410745'
+[12-28-2023 18:00:21.960s] [tlv.c:525] handler for 1052: 0x7f81dee05ba0
+[12-28-2023 18:00:21.960s] [tlv.c:566] processing command: 1052 id: '67098135757207447774919474859497'
+[12-28-2023 18:00:21.963s] [tlv.c:525] handler for 1001: 0x7f81dee04ea0
+[12-28-2023 18:00:21.963s] [tlv.c:566] processing command: 1001 id: '89828954952924904684081825234219'
+[12-28-2023 18:00:21.967s] [tlv.c:525] handler for 1008: 0x7f81dee05080
+[12-28-2023 18:00:21.967s] [tlv.c:566] processing command: 1008 id: '65633165599228755899528810733235'
+[12-28-2023 18:00:21.969s] [tlv.c:525] handler for 1008: 0x7f81dee05080
+[12-28-2023 18:00:21.970s] [tlv.c:566] processing command: 1008 id: '85050044826346755221890864315787'
+[12-28-2023 18:00:21.987s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:21.987s] [tlv.c:566] processing command: 4 id: '91530113999941975579527262088825'
+[12-28-2023 18:00:21.987s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:22.062s] [tlv.c:525] handler for 8: 0x7f81dee04db0
+[12-28-2023 18:00:22.062s] [tlv.c:566] processing command: 8 id: '54671297421581881396264700326102'
+[12-28-2023 18:00:22.064s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:22.064s] [tlv.c:566] processing command: 1 id: '71443373478301013063121666917516'
+[12-28-2023 18:00:22.066s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.066s] [tlv.c:566] processing command: 1016 id: '15388073693490994918877035504588'
+[12-28-2023 18:00:22.071s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:22.071s] [tlv.c:566] processing command: 4 id: '89496676605852962770764468841847'
+[12-28-2023 18:00:22.071s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:22.072s] [tlv.c:525] handler for 5: 0x7f81dee04d60
+[12-28-2023 18:00:22.072s] [tlv.c:566] processing command: 5 id: '93850194322211623885760334523921'
+[12-28-2023 18:00:22.097s] [tlv.c:525] handler for 2: 0x7f81dee04c70
+[12-28-2023 18:00:22.097s] [tlv.c:566] processing command: 2 id: '14695756320176417455728435482005'
+[12-28-2023 18:00:22.099s] [tlv.c:525] handler for 5: 0x7f81dee04d60
+[12-28-2023 18:00:22.099s] [tlv.c:566] processing command: 5 id: '08963871642121794931407489450882'
+[12-28-2023 18:00:22.124s] [tlv.c:525] handler for 2: 0x7f81dee04c70
+[12-28-2023 18:00:22.124s] [tlv.c:566] processing command: 2 id: '05708789981907983250768684063885'
+[12-28-2023 18:00:22.125s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:22.125s] [tlv.c:566] processing command: 1 id: '65292838306680082743137626391946'
+[12-28-2023 18:00:22.127s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.127s] [tlv.c:566] processing command: 1016 id: '86787235507625240405434556922845'
+[12-28-2023 18:00:22.129s] [tlv.c:525] handler for 1004: 0x7f81dee04ef0
+[12-28-2023 18:00:22.129s] [tlv.c:566] processing command: 1004 id: '64976144037607143063057324852488'
+[12-28-2023 18:00:22.132s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.132s] [tlv.c:566] processing command: 1016 id: '42556544167398274497479989564473'
+[12-28-2023 18:00:22.134s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:22.134s] [tlv.c:566] processing command: 4 id: '68730592627515869833518184500379'
+[12-28-2023 18:00:22.134s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:22.136s] [tlv.c:525] handler for 8: 0x7f81dee04db0
+[12-28-2023 18:00:22.136s] [tlv.c:566] processing command: 8 id: '38647524741967857693470041450109'
+[12-28-2023 18:00:22.137s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:22.137s] [tlv.c:566] processing command: 1 id: '39895732514925938933600764066701'
+[12-28-2023 18:00:22.137s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:22.137s] [tlv.c:566] processing command: 4 id: '55083920059083468666987034553677'
+[12-28-2023 18:00:22.137s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:22.139s] [tlv.c:525] handler for 8: 0x7f81dee04db0
+[12-28-2023 18:00:22.139s] [tlv.c:566] processing command: 8 id: '68308750436521178344872450891529'
+[12-28-2023 18:00:22.140s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:22.140s] [tlv.c:566] processing command: 1 id: '26307861616982630963729331199072'
+[12-28-2023 18:00:22.141s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:22.141s] [tlv.c:566] processing command: 4 id: '97163330110528350731945380872858'
+[12-28-2023 18:00:22.141s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:22.142s] [tlv.c:525] handler for 5: 0x7f81dee04d60
+[12-28-2023 18:00:22.142s] [tlv.c:566] processing command: 5 id: '97581297020577208016518292102930'
+[12-28-2023 18:00:22.143s] [tlv.c:525] handler for 2: 0x7f81dee04c70
+[12-28-2023 18:00:22.143s] [tlv.c:566] processing command: 2 id: '36749286287442380010428316437045'
+[12-28-2023 18:00:22.144s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:22.144s] [tlv.c:566] processing command: 1 id: '79981927929227688158557566682991'
+[12-28-2023 18:00:22.146s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.146s] [tlv.c:566] processing command: 1016 id: '96867995052064962890697067434935'
+[12-28-2023 18:00:22.148s] [tlv.c:525] handler for 1004: 0x7f81dee04ef0
+[12-28-2023 18:00:22.148s] [tlv.c:566] processing command: 1004 id: '33281208073215668787217236836074'
+[12-28-2023 18:00:22.151s] [tlv.c:525] handler for 1052: 0x7f81dee05ba0
+[12-28-2023 18:00:22.151s] [tlv.c:566] processing command: 1052 id: '08055969589125457498941529645089'
+[12-28-2023 18:00:22.153s] [tlv.c:525] handler for 1052: 0x7f81dee05ba0
+[12-28-2023 18:00:22.153s] [tlv.c:566] processing command: 1052 id: '50363100269644297656597177812352'
+[12-28-2023 18:00:22.155s] [tlv.c:525] handler for 1052: 0x7f81dee05ba0
+[12-28-2023 18:00:22.155s] [tlv.c:566] processing command: 1052 id: '75164197319795205775285845624970'
+[12-28-2023 18:00:22.157s] [tlv.c:525] handler for 1052: 0x7f81dee05ba0
+[12-28-2023 18:00:22.157s] [tlv.c:566] processing command: 1052 id: '81403006816591588756011883566074'
+[12-28-2023 18:00:22.159s] [tlv.c:525] handler for 1052: 0x7f81dee05ba0
+[12-28-2023 18:00:22.159s] [tlv.c:566] processing command: 1052 id: '74934234186334978793642479732261'
+[12-28-2023 18:00:22.161s] [tlv.c:525] handler for 1052: 0x7f81dee05ba0
+[12-28-2023 18:00:22.161s] [tlv.c:566] processing command: 1052 id: '49225815825749072138152769286191'
+[12-28-2023 18:00:22.163s] [tlv.c:525] handler for 1052: 0x7f81dee05ba0
+[12-28-2023 18:00:22.163s] [tlv.c:566] processing command: 1052 id: '96855401825713818857994177771942'
+[12-28-2023 18:00:22.165s] [tlv.c:525] handler for 1052: 0x7f81dee05ba0
+[12-28-2023 18:00:22.165s] [tlv.c:566] processing command: 1052 id: '88243935873272119334445727859176'
+[12-28-2023 18:00:22.167s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.167s] [tlv.c:566] processing command: 1016 id: '66608991080104911752129049041882'
+[12-28-2023 18:00:22.170s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.170s] [tlv.c:566] processing command: 1016 id: '60552147522768737478518964689839'
+[12-28-2023 18:00:22.172s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.172s] [tlv.c:566] processing command: 1016 id: '59844160270622997256580282806203'
+[12-28-2023 18:00:22.174s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.174s] [tlv.c:566] processing command: 1016 id: '92918471617738472063495203834723'
+[12-28-2023 18:00:22.176s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.176s] [tlv.c:566] processing command: 1016 id: '19011798264426591272657754268679'
+[12-28-2023 18:00:22.179s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.179s] [tlv.c:566] processing command: 1016 id: '86185784816450164198067309167937'
+[12-28-2023 18:00:22.181s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.181s] [tlv.c:566] processing command: 1016 id: '73574810581382274276247718968752'
+[12-28-2023 18:00:22.184s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.184s] [tlv.c:566] processing command: 1016 id: '38006755076407691707823110870677'
+[12-28-2023 18:00:22.186s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:22.186s] [tlv.c:566] processing command: 4 id: '19952162270985327016130319118958'
+[12-28-2023 18:00:22.186s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:22.187s] [tlv.c:525] handler for 8: 0x7f81dee04db0
+[12-28-2023 18:00:22.187s] [tlv.c:566] processing command: 8 id: '62516585913735554593851686649883'
+[12-28-2023 18:00:22.188s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:22.188s] [tlv.c:566] processing command: 1 id: '76826013779195866608513414385036'
+[12-28-2023 18:00:22.189s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.189s] [tlv.c:566] processing command: 1016 id: '46015945491398190821923029369672'
+[12-28-2023 18:00:22.191s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:22.191s] [tlv.c:566] processing command: 4 id: '86762197858109385045670459774818'
+[12-28-2023 18:00:22.191s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:22.192s] [tlv.c:525] handler for 5: 0x7f81dee04d60
+[12-28-2023 18:00:22.192s] [tlv.c:566] processing command: 5 id: '25368195429414061192025422609920'
+[12-28-2023 18:00:22.193s] [tlv.c:525] handler for 2: 0x7f81dee04c70
+[12-28-2023 18:00:22.193s] [tlv.c:566] processing command: 2 id: '53404038090064098955721378257936'
+[12-28-2023 18:00:22.194s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:22.194s] [tlv.c:566] processing command: 1 id: '54079321649270928113647291175759'
+[12-28-2023 18:00:22.195s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:22.195s] [tlv.c:566] processing command: 4 id: '38922013450152710464697607585646'
+[12-28-2023 18:00:22.195s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:22.196s] [tlv.c:525] handler for 8: 0x7f81dee04db0
+[12-28-2023 18:00:22.196s] [tlv.c:566] processing command: 8 id: '92426528192524725937789632031807'
+[12-28-2023 18:00:22.197s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:22.197s] [tlv.c:566] processing command: 1 id: '25793426500127414892403337202137'
+[12-28-2023 18:00:22.198s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:22.198s] [tlv.c:566] processing command: 4 id: '83422789875322528728909336715309'
+[12-28-2023 18:00:22.198s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:22.199s] [tlv.c:525] handler for 5: 0x7f81dee04d60
+[12-28-2023 18:00:22.199s] [tlv.c:566] processing command: 5 id: '70515484390185302007921269039336'
+[12-28-2023 18:00:22.200s] [tlv.c:525] handler for 2: 0x7f81dee04c70
+[12-28-2023 18:00:22.200s] [tlv.c:566] processing command: 2 id: '30375243576401567753032607215670'
+[12-28-2023 18:00:22.201s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:22.201s] [tlv.c:566] processing command: 1 id: '36630058005155871491031467065372'
+[12-28-2023 18:00:22.201s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:22.201s] [tlv.c:566] processing command: 4 id: '62230503069331659172287436081346'
+[12-28-2023 18:00:22.201s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:22.203s] [tlv.c:525] handler for 8: 0x7f81dee04db0
+[12-28-2023 18:00:22.203s] [tlv.c:566] processing command: 8 id: '56382430022964441056434950047908'
+[12-28-2023 18:00:22.206s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:22.206s] [tlv.c:566] processing command: 1 id: '29190451989868940850452829116281'
+[12-28-2023 18:00:22.207s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:22.207s] [tlv.c:566] processing command: 4 id: '60759123986835607602044763369933'
+[12-28-2023 18:00:22.207s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:22.209s] [tlv.c:525] handler for 5: 0x7f81dee04d60
+[12-28-2023 18:00:22.209s] [tlv.c:566] processing command: 5 id: '79406424446664665282610082864945'
+[12-28-2023 18:00:22.210s] [tlv.c:525] handler for 2: 0x7f81dee04c70
+[12-28-2023 18:00:22.210s] [tlv.c:566] processing command: 2 id: '23126841079053643273572752148093'
+[12-28-2023 18:00:22.211s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:22.211s] [tlv.c:566] processing command: 1 id: '93891279268488741253967951343188'
+[12-28-2023 18:00:22.213s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.213s] [tlv.c:566] processing command: 1016 id: '33967790250302650196404492571275'
+[12-28-2023 18:00:22.215s] [tlv.c:525] handler for 1004: 0x7f81dee04ef0
+[12-28-2023 18:00:22.215s] [tlv.c:566] processing command: 1004 id: '92112198472968863328936655986610'
+[12-28-2023 18:00:22.217s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.217s] [tlv.c:566] processing command: 1016 id: '00268666101236354459511972584094'
+[12-28-2023 18:00:22.220s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.220s] [tlv.c:566] processing command: 1016 id: '05013030807265370573405101804813'
+[12-28-2023 18:00:22.222s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:22.222s] [tlv.c:566] processing command: 4 id: '14619055986068632708229330217432'
+[12-28-2023 18:00:22.222s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:22.223s] [tlv.c:525] handler for 8: 0x7f81dee04db0
+[12-28-2023 18:00:22.223s] [tlv.c:566] processing command: 8 id: '98296909036999918300884877042554'
+[12-28-2023 18:00:22.224s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:22.224s] [tlv.c:566] processing command: 1 id: '41186399448681762599699422872552'
+[12-28-2023 18:00:22.225s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.225s] [tlv.c:566] processing command: 1016 id: '57863205876482451447955383438557'
+[12-28-2023 18:00:22.228s] [tlv.c:525] handler for 1007: 0x7f81dee04f90
+[12-28-2023 18:00:22.228s] [tlv.c:566] processing command: 1007 id: '33224452268104536905636101251628'
+[12-28-2023 18:00:22.230s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.230s] [tlv.c:566] processing command: 1016 id: '56395484472741821937698538494443'
+[12-28-2023 18:00:22.233s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.233s] [tlv.c:566] processing command: 1016 id: '75809320775852889647495693893728'
+[12-28-2023 18:00:22.235s] [tlv.c:525] handler for 1004: 0x7f81dee04ef0
+[12-28-2023 18:00:22.235s] [tlv.c:566] processing command: 1004 id: '42760407662399565428832153916060'
+[12-28-2023 18:00:22.238s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.238s] [tlv.c:566] processing command: 1016 id: '51301148651777767557721378666640'
+[12-28-2023 18:00:22.240s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.240s] [tlv.c:566] processing command: 1016 id: '32630776019277046738806084150035'
+[12-28-2023 18:00:22.242s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.242s] [tlv.c:566] processing command: 1016 id: '11832918371770842178989652124543'
+[12-28-2023 18:00:22.245s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.245s] [tlv.c:566] processing command: 1016 id: '30477005517204064295600034484523'
+[12-28-2023 18:00:22.248s] [tlv.c:525] handler for 1011: 0x7f81dee050d0
+[12-28-2023 18:00:22.248s] [tlv.c:566] processing command: 1011 id: '84607479738446056780135148212819'
+[12-28-2023 18:00:22.250s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.250s] [tlv.c:566] processing command: 1016 id: '20139823894413031740362456581200'
+[12-28-2023 18:00:22.251s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:22.251s] [tlv.c:566] processing command: 4 id: '42374929782411596511774842730501'
+[12-28-2023 18:00:22.251s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:22.252s] [tlv.c:525] handler for 8: 0x7f81dee04db0
+[12-28-2023 18:00:22.253s] [tlv.c:566] processing command: 8 id: '86271033222455920191805584504267'
+[12-28-2023 18:00:22.253s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:22.253s] [tlv.c:566] processing command: 1 id: '96422376097591249753816862781665'
+[12-28-2023 18:00:22.255s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.255s] [tlv.c:566] processing command: 1016 id: '97055402567907735162353217135709'
+[12-28-2023 18:00:22.258s] [tlv.c:525] handler for 1011: 0x7f81dee050d0
+[12-28-2023 18:00:22.258s] [tlv.c:566] processing command: 1011 id: '78018174007796328310439391924037'
+[12-28-2023 18:00:22.259s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:22.259s] [tlv.c:566] processing command: 4 id: '43872563594471312787115323004499'
+[12-28-2023 18:00:22.259s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:22.260s] [tlv.c:525] handler for 8: 0x7f81dee04db0
+[12-28-2023 18:00:22.260s] [tlv.c:566] processing command: 8 id: '72185988656165444502904672623159'
+[12-28-2023 18:00:22.261s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:22.261s] [tlv.c:566] processing command: 1 id: '88532478111643919227286784396552'
+[12-28-2023 18:00:22.263s] [tlv.c:525] handler for 1009: 0x7f81dee05170
+[12-28-2023 18:00:22.263s] [tlv.c:566] processing command: 1009 id: '91899579662922662602651004794464'
+[12-28-2023 18:00:22.265s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.265s] [tlv.c:566] processing command: 1016 id: '66537847290848395988037220709145'
+[12-28-2023 18:00:22.267s] [tlv.c:525] handler for 1003: 0x7f81dee05120
+[12-28-2023 18:00:22.267s] [tlv.c:566] processing command: 1003 id: '47318380490116380259352442695707'
+[12-28-2023 18:00:22.270s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.270s] [tlv.c:566] processing command: 1016 id: '01324225921752533893024033370314'
+[12-28-2023 18:00:22.273s] [tlv.c:525] handler for 1069: 0x7f81dee05dd0
+[12-28-2023 18:00:22.273s] [tlv.c:566] processing command: 1069 id: '76175929392709538041882551276262'
+[12-28-2023 18:00:22.273s] [stdapi/sys/process.c:339] process_new: command -v ln || which ln && echo OZDRSPDB  0x00000043
+[12-28-2023 18:00:22.273s] [process.c:427] child pid 2200 started
+[12-28-2023 18:00:22.273s] [process.c:462] IO started on fds 12 8
+[12-28-2023 18:00:22.276s] [tlv.c:525] handler for 5: 0x7f81dee04d60
+[12-28-2023 18:00:22.276s] [tlv.c:566] processing command: 5 id: '08036991697199608600303527035018'
+[12-28-2023 18:00:22.279s] [process.c:274] nothing on fd 8: Resource temporarily unavailable
+[12-28-2023 18:00:22.279s] [process.c:274] nothing on fd 12: Resource temporarily unavailable
+[12-28-2023 18:00:22.279s] [process.c:285] child pid 2200 exited status 0
+[12-28-2023 18:00:22.279s] [process.c:274] nothing on fd 12: Resource temporarily unavailable
+[12-28-2023 18:00:22.279s] [process.c:274] nothing on fd 8: Resource temporarily unavailable
+[12-28-2023 18:00:22.485s] [tlv.c:525] handler for 5: 0x7f81dee04d60
+[12-28-2023 18:00:22.485s] [tlv.c:566] processing command: 5 id: '31110278388845795108335671314610'
+[12-28-2023 18:00:22.485s] [stdapi/sys/process.c:249] read 17 bytes for channel
+[12-28-2023 18:00:22.486s] [tlv.c:525] handler for 5: 0x7f81dee04d60
+[12-28-2023 18:00:22.486s] [tlv.c:566] processing command: 5 id: '16704710665172651269244491722237'
+[12-28-2023 18:00:22.827s] [tlv.c:525] handler for 1068: 0x7f81dee05d80
+[12-28-2023 18:00:22.827s] [tlv.c:566] processing command: 1068 id: '98959704744931916644128498370621'
+[12-28-2023 18:00:22.828s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:22.829s] [tlv.c:566] processing command: 1016 id: '54574753138011827478719684408006'
+[12-28-2023 18:00:22.919s] [tlv.c:525] handler for 1011: 0x7f81dee050d0
+[12-28-2023 18:00:22.919s] [tlv.c:566] processing command: 1011 id: '19205475978866085653234381683338'
+[12-28-2023 18:00:23.133s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:23.133s] [tlv.c:566] processing command: 1016 id: '57959162811695737478616842800620'
+[12-28-2023 18:00:23.256s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:23.256s] [tlv.c:566] processing command: 4 id: '82534100245759717274486805659025'
+[12-28-2023 18:00:23.256s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:23.402s] [tlv.c:525] handler for 8: 0x7f81dee04db0
+[12-28-2023 18:00:23.402s] [tlv.c:566] processing command: 8 id: '98318897930975596813925420656935'
+[12-28-2023 18:00:23.626s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:23.626s] [tlv.c:566] processing command: 1 id: '69989657171185454132803148492486'
+[12-28-2023 18:00:23.628s] [tlv.c:525] handler for 1069: 0x7f81dee05dd0
+[12-28-2023 18:00:23.628s] [tlv.c:566] processing command: 1069 id: '18311896652450675600357845841169'
+[12-28-2023 18:00:23.628s] [stdapi/sys/process.c:339] process_new: ln -s $(pwd)/meterpreter-test-dir $(pwd)/meterpreter-test-dir.lnk  0x00000043
+[12-28-2023 18:00:23.628s] [process.c:427] child pid 2208 started
+[12-28-2023 18:00:23.628s] [process.c:462] IO started on fds 12 8
+[12-28-2023 18:00:23.639s] [process.c:274] nothing on fd 8: Resource temporarily unavailable
+[12-28-2023 18:00:23.639s] [process.c:274] nothing on fd 12: Resource temporarily unavailable
+[12-28-2023 18:00:23.639s] [process.c:285] child pid 2208 exited status 0
+[12-28-2023 18:00:23.640s] [process.c:274] nothing on fd 12: Resource temporarily unavailable
+[12-28-2023 18:00:23.640s] [process.c:274] nothing on fd 8: Resource temporarily unavailable
+[12-28-2023 18:00:23.843s] [tlv.c:525] handler for 5: 0x7f81dee04d60
+[12-28-2023 18:00:23.844s] [tlv.c:566] processing command: 5 id: '57573098402049487637417346344647'
+[12-28-2023 18:00:24.350s] [tlv.c:525] handler for 1068: 0x7f81dee05d80
+[12-28-2023 18:00:24.351s] [tlv.c:566] processing command: 1068 id: '36712555258908133443649319213093'
+[12-28-2023 18:00:24.352s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:24.352s] [tlv.c:566] processing command: 1016 id: '08325009477869083415024840770785'
+[12-28-2023 18:00:24.398s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:24.398s] [tlv.c:566] processing command: 1016 id: '87521257887208619700165515826009'
+[12-28-2023 18:00:24.507s] [tlv.c:525] handler for 1003: 0x7f81dee05120
+[12-28-2023 18:00:24.507s] [tlv.c:566] processing command: 1003 id: '26734469119661815935490378236935'
+[12-28-2023 18:00:24.666s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:24.666s] [tlv.c:566] processing command: 1016 id: '05760402915665675802824509578357'
+[12-28-2023 18:00:24.882s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:24.882s] [tlv.c:566] processing command: 1016 id: '61454746037802878816987447597769'
+[12-28-2023 18:00:24.991s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:24.992s] [tlv.c:566] processing command: 1016 id: '32799153358770713790845281010755'
+[12-28-2023 18:00:25.183s] [tlv.c:525] handler for 1003: 0x7f81dee05120
+[12-28-2023 18:00:25.183s] [tlv.c:566] processing command: 1003 id: '33400188908673005753196414656442'
+[12-28-2023 18:00:25.286s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:25.286s] [tlv.c:566] processing command: 1016 id: '62945322172677847996613390146383'
+[12-28-2023 18:00:25.413s] [tlv.c:525] handler for 1011: 0x7f81dee050d0
+[12-28-2023 18:00:25.413s] [tlv.c:566] processing command: 1011 id: '33268464257019284161269266982854'
+[12-28-2023 18:00:25.540s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:25.540s] [tlv.c:566] processing command: 1016 id: '40881626315447906233041943479885'
+[12-28-2023 18:00:25.643s] [tlv.c:525] handler for 1011: 0x7f81dee050d0
+[12-28-2023 18:00:25.643s] [tlv.c:566] processing command: 1011 id: '63018007246176099437154595083986'
+[12-28-2023 18:00:25.744s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:25.744s] [tlv.c:566] processing command: 1016 id: '98811823760964971437514491281051'
+[12-28-2023 18:00:25.957s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:25.957s] [tlv.c:566] processing command: 1016 id: '43724109323625424040313476128097'
+[12-28-2023 18:00:26.060s] [tlv.c:525] handler for 4: 0x7f81dee04c20
+[12-28-2023 18:00:26.060s] [tlv.c:566] processing command: 4 id: '73663212695147520523581312712938'
+[12-28-2023 18:00:26.060s] [channel.c:258] creating new channel of type stdapi_fs_file
+[12-28-2023 18:00:26.161s] [tlv.c:525] handler for 8: 0x7f81dee04db0
+[12-28-2023 18:00:26.161s] [tlv.c:566] processing command: 8 id: '08491048248898568861337664758936'
+[12-28-2023 18:00:26.263s] [tlv.c:525] handler for 1: 0x7f81dee04e00
+[12-28-2023 18:00:26.263s] [tlv.c:566] processing command: 1 id: '83491293841259606612120055155230'
+[12-28-2023 18:00:26.265s] [tlv.c:525] handler for 1069: 0x7f81dee05dd0
+[12-28-2023 18:00:26.265s] [tlv.c:566] processing command: 1069 id: '48057298499672982315208015210269'
+[12-28-2023 18:00:26.265s] [stdapi/sys/process.c:339] process_new: ln -s $(pwd)/meterpreter-test-dir.1 $(pwd)/meterpreter-test-dir.2/link  0x00000043
+[12-28-2023 18:00:26.265s] [process.c:427] child pid 2222 started
+[12-28-2023 18:00:26.265s] [process.c:462] IO started on fds 12 8
+[12-28-2023 18:00:26.274s] [process.c:274] nothing on fd 8: Resource temporarily unavailable
+[12-28-2023 18:00:26.274s] [process.c:274] nothing on fd 12: Resource temporarily unavailable
+[12-28-2023 18:00:26.274s] [process.c:285] child pid 2222 exited status 0
+[12-28-2023 18:00:26.274s] [process.c:274] nothing on fd 12: Resource temporarily unavailable
+[12-28-2023 18:00:26.274s] [process.c:274] nothing on fd 8: Resource temporarily unavailable
+[12-28-2023 18:00:26.429s] [mettle.c:75] Heartbeat
+[12-28-2023 18:00:26.429s] [tlv.c:525] handler for 5: 0x7f81dee04d60
+[12-28-2023 18:00:26.429s] [tlv.c:566] processing command: 5 id: '25515825521726941392545808289245'
+[12-28-2023 18:00:26.731s] [tlv.c:525] handler for 1068: 0x7f81dee05d80
+[12-28-2023 18:00:26.731s] [tlv.c:566] processing command: 1068 id: '91256095479990671543428317945383'
+[12-28-2023 18:00:26.732s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:26.732s] [tlv.c:566] processing command: 1016 id: '69030190372938303292227961577409'
+[12-28-2023 18:00:26.875s] [tlv.c:525] handler for 1003: 0x7f81dee05120
+[12-28-2023 18:00:26.875s] [tlv.c:566] processing command: 1003 id: '16201142165527051396492393130848'
+[12-28-2023 18:00:27.071s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:27.071s] [tlv.c:566] processing command: 1016 id: '99496671932049544261204358559077'
+[12-28-2023 18:00:27.257s] [tlv.c:525] handler for 1016: 0x7f81dee05260
+[12-28-2023 18:00:27.257s] [tlv.c:566] processing command: 1016 id: '65431356986210446567705991126103'
+[12-28-2023 18:00:27.474s] [tlv.c:525] handler for 1003: 0x7f81dee05120
+[12-28-2023 18:00:27.474s] [tlv.c:566] processing command: 1003 id: '67486411073204143389136380805702'
+[12-28-2023 18:00:27.707s] [tlv.c:525] handler for 1052: 0x7f81dee05ba0
+[12-28-2023 18:00:27.707s] [tlv.c:566] processing command: 1052 id: '67449761209520511694645726065158'
+[12-28-2023 18:00:27.928s] [tlv.c:525] handler for 1001: 0x7f81dee04ea0
+[12-28-2023 18:00:27.928s] [tlv.c:566] processing command: 1001 id: '19404160447729085325792089367429'
+[12-28-2023 18:00:28.132s] [tlv.c:525] handler for 1008: 0x7f81dee05080
+[12-28-2023 18:00:28.132s] [tlv.c:566] processing command: 1008 id: '50463726372981488802762396910334'

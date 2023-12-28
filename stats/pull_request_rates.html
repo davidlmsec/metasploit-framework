@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Metasploit Stats</title>
+    <meta charset='utf-8'>
+    <!-- REQUIRED -->
+    <style>
+      body{
+        padding-top: 60px;
+      }
+    </style>
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.5/superhero/bootstrap.min.css" rel="stylesheet" integrity="sha384-IEb1z7D4ISbz8RTKVtgjIw6KegExJgu6WdDei6Fn2xgL6f5dfyTppLEFnkFbRaxv" crossorigin="anonymous">
+    <script src="assets/bootstrap/js/jquery.min.js"></script>
+    <script src="assets/highcharts.js" type='text/javascript'></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <!-- EO REQUIRED -->
+  </head>
+  <body>
+    <!-- NAVBAR-->
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="navbar-header">
+
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                 <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+              </button> <a class="navbar-brand" href="#">Metasploit Stats</a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav">
+                <li><a href="https://docs.metasploit.com">Metasploit Docs</a></li>
+                <li><a href="https://github.com/rapid7/metasploit-framework">Metasploit on Github</a></li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+    <!-- NAVBAR END-->
+
+    <div class='container'>
+      <div class='tabbable tabs-left'>
+        <ul class='nav nav-pills'>
+          <li>
+            
+  <li role="presentation">
+    <a href="pull_request_rates.html" >Pull Requests per Quarter</a>
+  </li>
+  <li role="presentation">
+    <a href="bug_rates.html" >Bugs per Quarter</a>
+  </li>
+  <li role="presentation">
+    <a href="feature_and_enhancement_rates.html" >Features and Enhancements per Quarter</a>
+  </li>
+  <li role="presentation">
+    <a href="index.html" >Open Pull Requests
+      <span class="badge">2 since last week</span>
+    </a>
+  </li>
+  <li role="presentation">
+    <a href="features_and_enhancements.html" >Open Features and Enhancements
+      <span class="badge">0 since last week</span>
+    </a>
+  </li>
+  <li role="presentation">
+    <a href="bugs.html" >Open Bugs
+      <span class="badge">0 since last week</span>
+    </a>
+  </li>
+          </li>
+        </ul>
+        <div class='tab-content'>
+          <div class='tab-pane active'>
+            <div class='page-header'>
+              <h1 class='pagination-centered'>Pull Requests per Quarter by date</h1>
+            </div>
+            <script type="text/javascript">
+        $(function () {
+            $('#container').highcharts({
+                chart: {
+                    zoomType: 'x'
+                },
+                title: {
+                    text: 'Pull Requests per Quarter'
+                },
+                subtitle: {
+                    text: ''
+                },
+                xAxis: {
+                    type: 'datetime',
+                    dateTimeLabelFormats: { // don't display the dummy year
+                        month: '%e. %b %Y',
+                        year: '%b'
+                    },
+                    title: {
+                        text: 'Date'
+                    }
+                },
+                yAxis: {
+                    title: {
+                        text: 'Pull Requests per Quarter'
+                    },
+                    min: 0
+                },
+                tooltip: {
+                    headerFormat: '<b>{series.name}</b><br>',
+                    pointFormat: '{point.x:%e. %b}: {point.y:.2f}'
+                },
+
+                plotOptions: {
+                    spline: {
+                        marker: {
+                            enabled: true
+                        }
+                    }
+                },
+
+                series: [
+                  { name: "Total Opened Pull Requests per Quarter", data: [[1577858400000, 263], [1585717200000, 247], [1593579600000, 304], [1601528400000, 250], [1609480800000, 256], [1617253200000, 292], [1625115600000, 254], [1633064400000, 232], [1641016800000, 178], [1648789200000, 260], [1656651600000, 234], [1664600400000, 274], [1672552800000, 251], [1680325200000, 324], [1688187600000, 241], [1696136400000, 180], [1703743200000, 195]] },
+                  { name: "Total Closed Pull Requests per Quarter", data: [[1577858400000, 253], [1585717200000, 244], [1593579600000, 319], [1601528400000, 260], [1609480800000, 261], [1617253200000, 287], [1625115600000, 256], [1633064400000, 255], [1641016800000, 174], [1648789200000, 242], [1656651600000, 239], [1664600400000, 270], [1672552800000, 228], [1680325200000, 334], [1688187600000, 271], [1696136400000, 165], [1703743200000, 196]] },
+                  { name: "Rapid7 Opened Pull Requests per Quarter", data: [[1577858400000, 30], [1585717200000, 51], [1593579600000, 64], [1601528400000, 78], [1609480800000, 58], [1617253200000, 104], [1625115600000, 88], [1633064400000, 88], [1641016800000, 47], [1648789200000, 94], [1656651600000, 100], [1664600400000, 117], [1672552800000, 101], [1680325200000, 160], [1688187600000, 115], [1696136400000, 78], [1703743200000, 106]] },
+                  { name: "Rapid7 Closed Pull Requests per Quarter", data: [[1577858400000, 31], [1585717200000, 46], [1593579600000, 64], [1601528400000, 74], [1609480800000, 60], [1617253200000, 101], [1625115600000, 82], [1633064400000, 95], [1641016800000, 49], [1648789200000, 77], [1656651600000, 108], [1664600400000, 110], [1672552800000, 96], [1680325200000, 163], [1688187600000, 134], [1696136400000, 68], [1703743200000, 103]] },
+                ]
+            });
+        });
+            </script>
+            <div id="container"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <table class="table table-striped">
+      <h2>Top committers this last month</h2>
+      <tr>
+<td>Metasploit (30)</td><td>Jack Heysel (29)</td><td>Dean Welch (17)</td><td>adfoster-r7 (16)</td><td>Spencer McIntyre (16)</td><td>h00die (10)</td><td>jheysel-r7 (10)</td><td>h00die-gr3y (7)</td><td>Christophe De La Fuente (6)</td><td>Ashley Donaldson (4)</td></tr>
+<tr><td>bwatters (4)</td><td>sjanusz-r7 (4)</td><td>cgranleese-r7 (3)</td><td>Simon Janusz (3)</td><td>dwelch-r7 (2)</td><td>MikeAnast (2)</td><td>Aleksa Zatezalo (2)</td><td>Valentin Lobstein (2)</td><td>Balgogan (2)</td><td>n00bhaxor (2)</td></tr>
+<tr><td>bwatters-r7 (1)</td><td>Jeremy Banker (1)</td><td>Zach Goldman (1)</td><td>Lore (1)</td><td>manastas (1)</td><td>Corey (1)</td><td>jvoisin (1)</td></tr>
+
+    </table>
+    <h2>Top items this last week</h2>
+    
+            
+    <div class="panel panel-primary">
+      <div class="panel-heading" data-toggle="collapse"
+           data-parent="#accordion" data-target="#index">
+        <h4 class="panel-title">New Open Pull Requests</h4>
+      </div>
+      <div id="index" class="panel-collapse collapse">
+      <div class="panel-body">
+        Check out some of the new Open Pull Requests for this week!
+      </div>
+      <div class="table-responsive">
+      <table class="table">
+    
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-framework/issues/18638">
+                <span class="fa-fw fa fa-github">Add exploit for CVE-2022-42889 Apache Commons Text RCE</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-12-24T19:26:17+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              errorxyz
+            </td>
+          </tr>
+          <tr>
+            <td class="resource_url">
+              <a target="_blank" href="https://github.com/rapid7/metasploit-framework/issues/18635">
+                <span class="fa-fw fa fa-github">New Module for Splunk CVE 2018-11409</span>
+              </a>
+            </td>
+
+            <td class="resource_date" nowrap>
+              <em>2023-12-21T18:19:41+00:00</em>
+            </td>
+
+            <td class="resource_author" nowrap>
+              n00bhaxor
+            </td>
+          </tr></table></div></div></div>
+    <div class="panel panel-primary">
+      <div class="panel-heading" data-toggle="collapse"
+           data-parent="#accordion" data-target="#features_and_enhancements">
+        <h4 class="panel-title">New Open Features and Enhancements</h4>
+      </div>
+      <div id="features_and_enhancements" class="panel-collapse collapse">
+      <div class="panel-body">
+        Check out some of the new Open Features and Enhancements for this week!
+      </div>
+      <div class="table-responsive">
+      <table class="table">
+    </table></div></div></div>
+    <div class="panel panel-primary">
+      <div class="panel-heading" data-toggle="collapse"
+           data-parent="#accordion" data-target="#bugs">
+        <h4 class="panel-title">New Open Bugs</h4>
+      </div>
+      <div id="bugs" class="panel-collapse collapse">
+      <div class="panel-body">
+        Check out some of the new Open Bugs for this week!
+      </div>
+      <div class="table-responsive">
+      <table class="table">
+    </table></div></div></div></div>
+  </body>
+</html>

